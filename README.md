@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Anurag 👋
 
-<!--
-**anurag-uc18/anurag-uc18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Data Engineer** who loves building scalable data pipelines and making sense of big data. 
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Transform raw data into meaningful insights
+- Design and optimize ETL processes
+- Automate data workflows to make life easier
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Toolbox
+- **Languages**: Python, SQL
+- **Big Data**: Apache Spark
+- **Cloud**: AWS
+
+## ⚡ Fun Facts
+- Always up for new tech challenges
+- Coffee fuels my code
+- I believe in clean, efficient, and well-documented code
+
+---
+
+Thanks for stopping by! 😊
