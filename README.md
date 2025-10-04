@@ -20,3 +20,16 @@ I'm a passionate **Data Engineer** who loves building scalable data pipelines an
 ---
 
 Thanks for stopping by! 😊
+
+
+
+
+---
+## 🎬 Recently Watched  
+
+When I’m not wrangling data and shipping code, you’ll probably find me diving into movies.  
+Here’s a peek at my recent watchlist (because GitHub Pages isn’t just for commits 😉):  
+
+🧊 *Bone Lake* — Oct 2 2025 — 10/10 for atmosphere, 0/10 for making me want to go near any lake ever again.
+
+*(This list updates as I keep watching and adding more – consider it my cinematic changelog.)*
