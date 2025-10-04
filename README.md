@@ -27,5 +27,6 @@ Here’s a peek at my recent watchlist (because GitHub Pages isn’t just for co
 *(This list updates as I keep watching and adding more – consider it my cinematic changelog.)*
 
 ---
-Say hi 👋, talk code 💻, or share what you’re watching 🍿 — [Leave a message here](https://github.com/anurag-uc18/anurag-uc18/discussions/1)
+Say hi 👋, talk code 💻, or share what you’re watching 🍿 — [Leave a message here!](https://github.com/anurag-uc18/anurag-uc18/discussions/1)
+
 Thanks for stopping by! 😊
