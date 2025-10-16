@@ -26,6 +26,8 @@ Here’s a peek at my recent watchlist (because GitHub Pages isn’t just for co
 
 2025-10-07 🪐 *The Martian (2015)* - Exciting and exhilirating.
 
+2025-10-15 🪐 *Vacation (2015)* - A wild trip to see Wally World!.
+
 *(This list updates as I keep watching and adding more – consider it my cinematic changelog.)*
 
 ---
