@@ -35,4 +35,4 @@ Say hi 👋, talk code 💻, or share what you’re watching 🍿 — [Leave a m
 
 Which 🎬 movie should I watch next? 🍿 - [Leave a recommendation here!](https://github.com/anurag-uc18/anurag-uc18/discussions/2)
 
-Thanks for stopping by! ⭐
+Thanks for stopping by! ⭐ 
