@@ -5,7 +5,7 @@ I'm a passionate **Data Engineer** who loves building scalable data pipelines an
 ## 🚀 What I Do
 - Transform raw data into meaningful insights 
 - Design and optimize ETL processes
-- Automate data workflows to make life easier
+- Automate data workflows to make life easier 
 
 ## 🛠️ My Toolbox
 - **Languages**: Python, SQL
