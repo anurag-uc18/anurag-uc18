@@ -3,7 +3,7 @@
 I'm a passionate **Data Engineer** who loves building scalable data pipelines and making sense of big data. 
 
 ## 🚀 What I Do
-- Transform raw data into meaningful insights
+- Transform raw data into meaningful insights 
 - Design and optimize ETL processes
 - Automate data workflows to make life easier
 
